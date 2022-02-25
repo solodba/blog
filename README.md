@@ -4,10 +4,10 @@
 基于Docker的LNMP集成shell安装脚本，使用wordpress搭建个人博客网站。
 
 #### 软件架构
-软件架构说明
-Nginx 1.15.5  
-Php 5.6.36  
-MySQL 5.7
+软件架构说明  
+nginx 1.15.5    
+php 5.6.36    
+MySQL 5.7  
 
 #### 安装教程
 
