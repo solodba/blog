@@ -5,19 +5,33 @@
 
 #### 软件架构
 软件架构说明
-
+Nginx 1.15.5  
+Php 5.6.36  
+MySQL 5.7
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  安装Docker服务
+sh install_docker.sh  
+2.  安装基于Docker的LNMP集成环境  
+sh install_blog_docker.sh  
+2.  安装wordpress  
+tar -zxvf wordpress-4.9.4-zh_CN.tar.gz -C 【php的存放网页的目录】  
+ 
+#### 个人博客配置步骤
+![Image text](https://gitee.com/code-horse-mi/blog/raw/master/images/1.png)  
 
-#### 使用说明
+![Image text](https://gitee.com/code-horse-mi/blog/raw/master/images/2.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![Image text](https://gitee.com/code-horse-mi/blog/raw/master/images/3.png)
+
+![Image text](https://gitee.com/code-horse-mi/blog/raw/master/images/4.png)
+
+![Image text](https://gitee.com/code-horse-mi/blog/raw/master/images/5.png)
+
+![Image text](https://gitee.com/code-horse-mi/blog/raw/master/images/6.png)
+
+![Image text](https://gitee.com/code-horse-mi/blog/raw/master/images/7.png)
 
 #### 参与贡献
 
