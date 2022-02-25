@@ -11,14 +11,14 @@ MySQL 5.7
 
 #### 安装教程
 
-1.  安装Docker服务
+1.  安装Docker服务  
 sh install_docker.sh  
-2.  安装基于Docker的LNMP集成环境  
-sh install_blog_docker.sh  
-2.  安装wordpress  
+2.  安装基于Docker的LNMP集成环境    
+sh install_blog_docker.sh     
+2.  安装wordpress    
 tar -zxvf wordpress-4.9.4-zh_CN.tar.gz -C 【php的存放网页的目录】  
  
-#### 个人博客配置步骤
+#### 个人博客配置步骤  
 ![Image text](https://gitee.com/code-horse-mi/blog/raw/master/images/1.png)  
 
 ![Image text](https://gitee.com/code-horse-mi/blog/raw/master/images/2.png)
